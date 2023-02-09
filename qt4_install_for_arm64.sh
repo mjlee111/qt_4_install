@@ -18,7 +18,7 @@ echo ""
 echo ""
 echo ""
 
-echo "[RO:BIT] Done"
+echo -e "\033[40;31m[RO:BIT] Done\033[0m"
 
 
 
