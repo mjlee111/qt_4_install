@@ -19,6 +19,8 @@ echo ""
 echo ""
 
 echo -e "\033[40;31m[RO:BIT] Done\033[0m"
+cd
+rm -rf qt_4_install
 
 
 
