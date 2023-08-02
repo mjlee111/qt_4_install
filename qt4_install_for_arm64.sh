@@ -2,6 +2,7 @@ echo -e "\033[40;31m[RO:BIT] Installing QT4 for ARM64\033[0m"
 echo -e "\033[40;31m[RO:BIT] made by 17th myeungjin lee\033[0m"
 
 echo -e "\033[40;31m[RO:BIT] Installing...\033[0m"
+sudo add-apt-repository ppa:rock-core/qt4
 sudo apt-get install -y qt4-dev-tools 
 sudo apt-get install -y qt4-qmake 
 sudo apt-get install -y libqt4-dev 
